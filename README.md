@@ -5,6 +5,14 @@
 
 Here are some ideas to get you started:
 
+<p align="center">
+  <marquee>🔥 Chào mừng bạn đến với GitHub của mình! 🚀</marquee>
+</p>
+
+<p align="center">
+  <marquee>🔥 Welcome to my GitHub! 🚀</marquee>
+</p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
