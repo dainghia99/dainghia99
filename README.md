@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**dainghia99/dainghia99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <p align="center">
   <marquee>🔥 Chào mừng bạn đến với GitHub của mình! 🚀</marquee>
 </p>
